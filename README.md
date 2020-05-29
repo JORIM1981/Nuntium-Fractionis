@@ -13,9 +13,9 @@ You can view the site at:[Heroku](https://nuntium-fractionis.herokuapp.com/)
 ## User Stories
 These are the behaviours/features that the application implements depending on the selection made by a user.
 
-As a user I would like to:
+As a user you can:
 * See various news sources
-* Select the ones they prefer
+* Select the ones you prefer
 * See the top news articles from that news source
 * See the image, description and time the news article was created
 * Click on an article and read it fully from the news source
