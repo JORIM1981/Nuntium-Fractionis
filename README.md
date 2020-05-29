@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/e0371fe4-84e9-4ff9-bfa8-de9af5a948be)](https://codebeat.co/projects/github-com-jorim1981-nuntium-fractionis-master)
+
 # Nuntium-Fractionis
 
 #### 29/05/2020
@@ -6,7 +8,7 @@
 ## Description
 Nuntium-Fractionis is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
 
-You can view the site at:[Heroku]()
+You can view the site at:[Heroku](https://nuntium-fractionis.herokuapp.com/)
 
 ## User Stories
 These are the behaviours/features that the application implements depending on the selection made by a user.
