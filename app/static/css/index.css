@@ -9,3 +9,18 @@
   overflow-y: auto;
   height: 90vh; /* NEW */
 }
+.col-9 h2 {
+  font-family: Catamaran;
+  color: #111;
+  font-weight: bold;
+}
+.col-9 h5 p {
+  font-family: Catamaran;
+  color: #111;
+  
+}
+.container h5 p {
+  font-family: Catamaran;
+  color: #111;
+}
+
